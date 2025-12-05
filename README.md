@@ -1,0 +1,1 @@
+The following are a number of different random projects ranging from a quiz game based of finance questions, a game on adventure with multiple scenarios to choose from, a number guesser, a game of rock, paper scissors and finally a password manager
